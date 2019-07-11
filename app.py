@@ -1,5 +1,3 @@
-#Tushar Borole
-#Python 2.7
 from flask import Flask,render_template,flash, redirect,url_for,session,logging,request
 from flask_sqlalchemy import SQLAlchemy
 from flask import Flask,send_from_directory,render_template
