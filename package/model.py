@@ -1,6 +1,3 @@
-#Tushar Borole
-#Python 2.7
-
 import sqlite3
 import json
 with open('config.json') as data_file:
